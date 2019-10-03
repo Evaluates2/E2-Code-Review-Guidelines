@@ -1,1 +1,1 @@
-# E2-Code-Review-Guidelines
+# E2 Code Review Guidelines
