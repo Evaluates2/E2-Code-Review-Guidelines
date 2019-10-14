@@ -61,7 +61,7 @@ Wrong: “Most of your code looks good, but the method calc() is too big.”
 
 Right: “I really like the class ProductController, Tim. It has a clear single responsibility, 
 is coherent, and contains nicely named methods. Good Job!
-Despite this, I spotted the method calc() which is too big for me.”
+Despite this, I spotted the method calc() which I think could be more understandable if broken into smaller functions.”
 ```
 
 
